@@ -1,4 +1,3 @@
-# prediksi-cadangan-pangan-pemerintah-daerah-cppd-kabupaten-kota-di-sulawesi-tengah
 # Prediksi Cadangan Pangan Pemerintah Daerah (CPPD) Kabupaten/Kota di Sulawesi Tengah
 
 Proyek ini dibuat untuk menganalisis dan memprediksi kebutuhan Cadangan Pangan Pemerintah Daerah (CPPD) pada Kabupaten/Kota di Provinsi Sulawesi Tengah menggunakan metode Machine Learning.
